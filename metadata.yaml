@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32114'
     url: http://www.gutenberg.org/2009/agents/32114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26598#Seasoning-of-Wood
 gutenberg_bookshelf:
 - Woodwork
 - Technology
